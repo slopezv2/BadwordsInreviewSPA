@@ -1,0 +1,4 @@
+# Bad words and insults in Spanish 
+Detection proyect used specifically to filter in Colombia context using Open AI GPT-based models
+- SELOPEZ: Prompt created using Open AI Studio
+- There are not guarantees for this code to continue working after publishing in the repo.
